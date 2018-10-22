@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/010 Activity_Lifecycle" />
             <option value="$PROJECT_DIR$/011 Activity_startActivity" />
+            <option value="$PROJECT_DIR$/012 Activity_Communication" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
